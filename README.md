@@ -53,7 +53,7 @@ This project was built as part of **Banao Chrome Extension Task 2**.
 ### **1️⃣ Start the backend server**
 ```bash
 cd linkedin-backend
-node server.js```
+node server.js
 
 The server runs on:
 http://localhost:5000
