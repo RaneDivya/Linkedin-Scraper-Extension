@@ -33,7 +33,7 @@ This project was built as part of **Banao Chrome Extension Task 2**.
 - Endpoint `/profiles` returns all saved profiles.
 
 ## 📂 Project Structure
-
+```
 ├── chrome-extension/
 │ ├── manifest.json
 │ ├── background.js
@@ -47,6 +47,7 @@ This project was built as part of **Banao Chrome Extension Task 2**.
 ├── package.json
 ├── db/
 └── links.db
+```
 
 ## 🔧 How to Run the Project
 
